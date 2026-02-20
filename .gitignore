@@ -23,3 +23,5 @@ target
 /.vs/Indoor-Positioning-System/FileContentIndex
 /.vs
 /out/build/x64-debug
+/out
+/boost*
